@@ -38,7 +38,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'psycopg2 >= 2.7.4',
-        'pytz >= 2013d',
+        'pytz >= 2013.9',
         'six >= 1.4.1',
         django,
         'lxml',
