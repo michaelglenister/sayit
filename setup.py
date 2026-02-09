@@ -42,7 +42,7 @@ setup(
         'mysociety-Django-Select2 == 4.3.2.2',
         'audioread >= 1.0.1',
         'elasticsearch >= 0.4',
-        'django-haystack >= 2.8, < 2.9',
+        'django-haystack >= 2.8',
         'django-bleach >= 0.5.2',
         'mysociety-django-popolo >= 0.1.0',
         'mysociety-django-sluggable >= 0.6.1.1',
