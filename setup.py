@@ -21,10 +21,7 @@ else:
         'pyasn1 >= 0.1.7',
     ]
 
-if os.environ.get('TOX'):
-    django = 'Django >= 1.11'
-else:
-    django = 'Django >= 1.11, < 3.0'
+django = 'Django >= 3.2.25'
 
 setup(
     name="django-sayit",
